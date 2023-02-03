@@ -1,0 +1,149 @@
+.nav {
+	position: absolute;
+	width: 1249px;
+	height: 89px;
+	left: 164px;
+	top: 29px;
+}
+.text {
+	position: absolute;
+	width: 466px;
+	height: 25px;
+	left: 545px;
+	top: 67px;
+	color: rgba(224, 224, 224, 1);
+}
+.rectangle_10 {
+	position: absolute;
+	width: 90px;
+	height: 89px;
+	left: 522px;
+	top: 29px;
+	background: rgba(255, 63, 64, 1);
+}
+.bar {
+	position: absolute;
+	width: 1249px;
+	height: 89px;
+	left: 164px;
+	top: 29px;
+	background: rgba(0, 0, 0, 1);
+}
+.rectangle_7 {
+	position: absolute;
+	width: 1249px;
+	height: 89px;
+	left: 164px;
+	top: 29px;
+	background: #000000;
+	mix-blend-mode: normal;
+	opacity: 0.8;
+}
+.sec {
+	position: absolute;
+	width: 1253px;
+	height: 359px;
+	left: 163px;
+	top: 219px;
+}
+.vedio {
+	position: absolute;
+	width: 554px;
+	height: 359px;
+	left: 862px;
+	top: 219px;
+}
+.vedio_icon {
+	position: absolute;
+	width: 70px;
+	height: 69px;
+	left: 1105px;
+	top: 365px;
+
+	background: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.8;
+}
+.rectangle_4_copy {
+	position: absolute;
+	width: 551px;
+	height: 356px;
+	left: 864px;
+	top: 221px;
+
+	background: #000000;
+	mix-blend-mode: normal;
+	opacity: 0.2;
+}
+.rectangle_4 {
+	position: absolute;
+	width: 554px;
+	height: 359px;
+	left: 862px;
+	top: 219px;
+}
+.intro_wrapper {
+	position: absolute;
+	width: 544.85px;
+	height: 73px;
+	left: 165px;
+	top: 373.52px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.9953px;
+	line-height: 28px;
+	/* or 175% */
+
+	display: flex;
+	align-items: center;
+
+	color: #000000;
+}
+.intro_text {
+	position: absolute;
+	width: 618px;
+	height: 117px;
+	left: 164px;
+	top: 220px;
+
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 60px;
+	line-height: 72px;
+	/* or 120% */
+
+	display: flex;
+	align-items: center;
+	letter-spacing: 1.5px;
+	text-transform: uppercase;
+
+	color: #000000;
+}
+.button_text {
+	position: absolute;
+	width: 227px;
+	height: 55px;
+	left: 163px;
+	top: 510px;
+}
+.rectangle_18 {
+	position: absolute;
+	width: 227px;
+	height: 55px;
+	left: 163px;
+	top: 510px;
+
+	background: #FF2D2D;
+}
+.rectangle_5 {
+	position: absolute;
+	width: 1579px;
+	height: 688px;
+	right: -2px;
+	top: -0.01px;
+
+	background: #F6F2F2;
+}
